@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name":"Jialun Lyu",
+    "occupation":"PHD Student at the University of Toronto",
+    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image":"profilepic.png",
+    "bio":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jialun.lyu@mail.utoronto.ca",
+    "phone": "647-459-5263",
+    "address":{
+      "street":"5235-40 St George St",
+      "city":"Toronto",
+      "state":"Ontario",
+      "zip": "M5S 2E4"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"github",
+        "url":"http://github.com/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My top skills",
+    "education":[
+      {
+        "school":"University of Toronto",
+        "degree":"PHD in Electrical and Computer Engineering",
+        "graduated":"2020 - Present",
+        "description":"A stupid geek"
+      },
+      {
+        "school":"University of Toronto",
+        "degree":"Bachelor of Science",
+        "graduated":"2016 - 2020",
+        "description":"Failed many courses"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"吹牛逼",
+        "level":"100%"
+      },
+
+      {
+        "name":"R",
+        "level":"70%"
+      },
+
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"C",
+        "level":"30%"
+      },
+      {
+        "name":"Java",
+        "level":"10%"
+      },
+      {
+        "name":"SQl",
+        "level":"1%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"What is on my mind is ahead of its own time! I'm not studying for me, I'm studying for Mankind!",
+        "user":"菜逼语录"
+      }
+    ]
+  }
+}
